@@ -3,7 +3,7 @@
 List of problems to prepare for interviews
 Solve all problems !
 
-#### Highlight : 2 pointers, hasmap, binary search
+Arrays
 
 - [ ] Two Sum - https://leetcode.com/problems/two-sum/
 - [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
