@@ -28,9 +28,9 @@ Dynamic Programming
 - [ ] Word Break Problem - https://leetcode.com/problems/word-break/
 - [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
 - [ ] House Robber - https://leetcode.com/problems/house-robber/  
-- [ ] Decode Ways - https://leetcode.com/problems/decode-ways/ [:black_flag: couldn't remember it...]  
+- [ ] Decode Ways - https://leetcode.com/problems/decode-ways/  
 - [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
-- [ ] Jump Game - https://leetcode.com/problems/jump-game/ [own solution O(n)]
+- [ ] Jump Game - https://leetcode.com/problems/jump-game/
 
 ---
 
