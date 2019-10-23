@@ -1,7 +1,7 @@
 # Training-For-Algos
 
 List of problems to prepare for interviews
- Solve all problems !
+Solve all problems !
 
 Arrays
 
