@@ -31,6 +31,7 @@ Dynamic Programming
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/  
 - [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
 - [ ] Jump Game - https://leetcode.com/problems/jump-game/
+- [ ] Word search - https://leetcode.com/problems/word-search/
 
 ---
 
